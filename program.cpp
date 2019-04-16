@@ -12,7 +12,7 @@ void printMyIndex () {
 
 int main () {
 
-     printMyName();
-     printMyIndex();
-	
+     printMyName(); //Printaj ime
+     printMyIndex(); //Printaj indeks
+     
 } 
